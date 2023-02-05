@@ -18,6 +18,8 @@ for (counter = 0; counter < 7; counter = counter + 1) {
 }
 */
 
+//Loop to print all numbers 1 - 100 but counts for divisibility by 3 and 5
+/*
 for (counter = 0; counter < 100; counter = counter + 1) {
 	if (counter % 3 == 0 && counter % 5 == 0){
 		console.log("Fizz Buzz")
@@ -32,3 +34,14 @@ for (counter = 0; counter < 100; counter = counter + 1) {
 		console.log(counter)
 	}
 }
+*/
+
+
+for (counter = 0; counter < 8; counter = counter + 1) {
+	if (counter % 2 == 0){
+		console.log("# # # #");
+	}
+	else {
+		console.log(" # # # #");
+	}
+}	
