@@ -36,7 +36,8 @@ for (counter = 0; counter < 100; counter = counter + 1) {
 }
 */
 
-
+//prints a checkerboard pattern
+/*
 for (counter = 0; counter < 8; counter = counter + 1) {
 	if (counter % 2 == 0){
 		console.log("# # # #");
@@ -45,3 +46,5 @@ for (counter = 0; counter < 8; counter = counter + 1) {
 		console.log(" # # # #");
 	}
 }	
+*/
+
