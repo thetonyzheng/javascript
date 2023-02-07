@@ -48,3 +48,9 @@ for (counter = 0; counter < 8; counter = counter + 1) {
 }	
 */
 
+function greet(who) { 
+	console.log("Hello " + who);
+}
+
+greet("Harry");
+console.log("Bye");
