@@ -48,9 +48,12 @@ for (counter = 0; counter < 8; counter = counter + 1) {
 }	
 */
 
+//Demonstration of how to call a function
+/*
 function greet(who) { 
 	console.log("Hello " + who);
 }
 
 greet("Harry");
 console.log("Bye");
+*/
