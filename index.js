@@ -57,7 +57,7 @@ function greet(who) {
 greet("Harry");
 console.log("Bye");
 */
-
+/*
 function findSolution(target) {
 	function find(current, history) {
 	if (current == target) {
@@ -72,3 +72,19 @@ function findSolution(target) {
 	}
 
 console.log(findSolution(24));
+*/
+/*
+let a = prompt("enter a number");
+let b = prompt("enter a second number");
+
+function min(a, b){
+	if (a > b){
+		return b;
+	}
+	else{
+		return a;
+	}
+}
+
+console.log("The min number is", min(a,b));
+*/
