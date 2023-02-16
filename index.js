@@ -88,3 +88,25 @@ function min(a, b){
 
 console.log("The min number is", min(a,b));
 */
+
+//Finds an even or odd number
+/*
+number = -1;
+
+function isEven (number){
+	if (number % 2 == 0){
+		console.log("True");
+		return true;
+	}
+	else if (number % 2 == 1){
+		console.log("False");
+		return false;
+	}
+	else {
+		console.log("False");
+		return false;
+	}
+}
+
+isEven(number);
+*/
