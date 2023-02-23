@@ -85,9 +85,9 @@ function min(a, b){
 		return a;
 	}
 }
-*/
-console.log("The min number is", min(a,b));
 
+console.log("The min number is", min(a,b));
+*/
 
 //Finds an even or odd number
 /*
@@ -109,4 +109,16 @@ function isEven (number){
 }
 
 isEven(number);
+*/
+
+//Testing Arrays and Objects
+
+/*
+let day1 = {
+	squirrel: false,
+	events: ["work", "touched tree", "pizza", "running"]
+}; 
+
+console.log(day1.events[1]);
+// -> touched.tree
 */
