@@ -85,9 +85,9 @@ function min(a, b){
 		return a;
 	}
 }
-
-console.log("The min number is", min(a,b));
 */
+console.log("The min number is", min(a,b));
+
 
 //Finds an even or odd number
 /*
